@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Lab 13 Blur</string>
+    <string name="cb_BlurBox">Blur box</string>
+    <string name="cb_GaussianBLur">Gaussian blur</string>
+    <string name="tv_SizeCore">Size core</string>
+    <string name="tv_Time">Time: 0.00s</string>
+    <string name="tv_CountThreads">Count threads</string>
+    <string name="btn_Process">Process</string>
+    <string name="btn_Stop">Stop</string>
+    <string-array name="countThreads">
+        <item>1 threads</item>
+        <item>2 threads</item>
+        <item>3 threads</item>
+        <item>4 threads</item>
+        <item>5 threads</item>
+        <item>6 threads</item>
+        <item>7 threads</item>
+        <item>8 threads</item>
+    </string-array>
+</resources>
